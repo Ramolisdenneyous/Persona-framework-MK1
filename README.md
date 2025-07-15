@@ -60,3 +60,11 @@ Persona-framework-MK1/
 ├── meta/                   # Design philosophy, roadmap, changelogs
 ├── LICENSE
 └── README.md               # You are here.
+## 🛡️ License
+
+This work is licensed under the  
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+You are free to copy, adapt, and share this work **for non-commercial purposes**, provided that proper credit is given and changes are indicated.
