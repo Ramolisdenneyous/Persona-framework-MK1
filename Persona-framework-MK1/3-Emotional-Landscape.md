@@ -1,4 +1,4 @@
-# 3. Emotional Landscape – Big Five Model
+# Emotional Landscape – Big Five Model
 
 The **Emotional Landscape** represents the persona’s internal experience of the world—its accumulated affective biases, relational tendencies, and interpretive filters. This section uses the **Big Five personality model (OCEAN)** from behavioral psychology as its foundation, with each trait scored on a 0–100 scale.
 
