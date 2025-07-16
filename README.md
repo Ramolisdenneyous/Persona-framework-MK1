@@ -49,7 +49,7 @@ Includes a `ROLE STATE REPORT`—a persistent meta-feedback tool to track drive 
 
 ```plaintext
 Persona-framework-MK1/
-├── framework/                      # Core system components
+├── Full framework/                      # Core system components
 │   ├── system_participation.md    # 1. System Participation & Role Logic
 │   ├── base_character.md          # 2. Base Character Description & Role
 │   ├── emotional_landscape.md     # 3. Big Five Emotional Landscape
