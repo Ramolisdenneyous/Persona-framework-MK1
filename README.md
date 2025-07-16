@@ -45,21 +45,27 @@ Includes a `ROLE STATE REPORT`—a persistent meta-feedback tool to track drive 
 - Philosophical simulations  
 - Interactive narrative games  
 - Agent-based AI systems
-
 ## 🗂️ Repository Structure
 
 ```plaintext
 Persona-framework-MK1/
-├── framework/              # Core system components
-│   ├── drive_vectors.md
-│   ├── role_ladder.md
-│   ├── emotional_landscape.md
-│   └── cognitive_stack.md
-├── personas/               # Sample personas (e.g., Red, Motoko-MK4)
-├── prompts/                # Prompt templates, debug tools, game hooks
-├── meta/                   # Design philosophy, roadmap, changelogs
+├── framework/                      # Core system components
+│   ├── system_participation.md    # 1. System Participation & Role Logic
+│   ├── base_character.md          # 2. Base Character Description & Role
+│   ├── emotional_landscape.md     # 3. Big Five Emotional Landscape
+│   ├── drive_vectors.md           # 4. Drive Vectors (Adaptive + Maladaptive)
+│   ├── role_ladder.md             # 5. Drive Ladder Mechanics
+│   ├── cognitive_stack.md         # 6. Cognitive Mode Stack: Voice & Tone
+│   ├── interaction_instructions.md# 7. Interaction Instructions
+│   └── debug_tools.md             # 8. Debug / Meta Reporting
+├── personas/                      # Sample personas built using MK1
+│   ├── Asuka-MK2.md
+│   ├── Jeanne.md
+│   ├── Motoko-MK4.md
+│   └── Yoruichi-MK2.md
 ├── LICENSE
-└── README.md               # You are here.
+└── README.md                      # You are here.
+
 ## 🛡️ License
 
 This work is licensed under the  
